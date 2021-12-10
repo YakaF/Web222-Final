@@ -1,0 +1,100 @@
+body{
+    background: #ceb79f;
+}
+
+.center-container{
+    width: 1100px;
+    margin:auto;
+    background-color: #a17b49;
+    padding: 20px;
+    text-align: left;
+}
+
+#logo{
+    width:50px;
+    height:50px;
+}
+
+#navbar-3{
+    padding-left: 220px;
+}
+
+.top-link{
+    border:1px solid
+}
+
+.top-link:hover{
+    border:5px solid
+}
+
+h1{
+    border-bottom: 3px solid #000;
+border-left: 3px solid #000;
+border-right: 3px dashed #000;
+border-top: 3px dotted #000;
+}
+/******************************************************************** ****/
+
+.input_group {
+    border:4px solid;
+    border-color: rgb(218, 176, 38);
+}
+.navbar{ 
+    max-width: 1000px;
+    margin: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding: 20px; 
+    font-family:'Times New Roman';
+    display: flex;
+    align-items: center; 
+}
+
+
+a{
+    text-decoration: none;
+    color: #b97316;
+}
+p{
+    color: #b97316;
+}
+
+
+
+.row{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.col-2{
+    flex-basis: 50%;
+    text-align: center;
+}
+
+
+.header{
+    background: radial-gradient(#fff, #f5f1ec);
+    border-radius: 25px;
+   
+    
+}
+
+footer{
+    background: radial-gradient(#fff, #f5f1ec);
+    border-radius: 25px;
+}
+
+#error{
+    border:4px solid;
+    border-color: rgb(255, 255, 255);
+    margin: 20px;
+    color: rgb(28, 60, 243);
+}
+
+
+
+
+
+
